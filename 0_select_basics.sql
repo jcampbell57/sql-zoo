@@ -1,3 +1,5 @@
+-- Lesson: https://sqlzoo.net/wiki/SELECT_basics
+
 -- 1. The example uses a WHERE clause to show the population of 'France'. 
 --    Note that strings should be in 'single quotes';
 --    Modify it to show the population of Germany
